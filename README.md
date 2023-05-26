@@ -12,9 +12,6 @@ https://seleniumbase.io/help_docs/install_python_pip_git/
 
 From there you can install seleniumbase with pip: ```pip install seleniumbase```
 
-# Fork this project and create a pull request on your own repo and send me the link.
-# Don't spend too much time on this assignment, it's expected to be done within 2 hours.
-
 # Write test cases for MyTestClass(BaseCase):
 ```
 class MyTestClass(BaseCase):
@@ -31,6 +28,7 @@ class MyTestClass(BaseCase):
 ```
 pytest qa_interview_test.py      
 ```
+# Don't spend too much time on this assignment, it's expected to be done within 2 hours.
 
 # Submit
 After completing the task, zip your test files and email it back.
